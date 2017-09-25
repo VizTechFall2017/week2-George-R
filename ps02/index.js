@@ -44,7 +44,7 @@ d3.select(this).attr('fill', '#9E69B2')
 
 
 var circle2 = indexCard.append('circle')
-      .attr('cx', 250)
+      .attr('cx', 175)
       .attr('cy',250)
       .attr('r', 175)
       .attr('fill', '#9F9F6C')
@@ -74,7 +74,7 @@ var circle3 = indexCard.append('circle')
                 })
 
 var circle4 = indexCard.append('circle')
-  .attr('cx', 250)
+  .attr('cx', 175)
           .attr('cy',250)
   .attr('r', 25)
     .attr('fill', '#6B6B49')
